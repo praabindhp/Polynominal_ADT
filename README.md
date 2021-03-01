@@ -7,19 +7,14 @@ This Is A C-Program To Illustrate Polynomial ADT
 
 The Operations/Error Illustrated :
 
-    1. Collision Handling By Linearprobing
+    1. Polynomial Addition
 
-    2. Do You Wish To Continue
-
-        2.1. Yes - 1
-
-        2.2. No - 0
-    
+    2. Add 2 Numbers
 
 The User Will Be Prompted To :
 
-    1. Enter The Number
+    1. Enter The 1st Number
 
-    2. The Hash Table Is .....
+    2. Enter The 2nd Number
 
-        Format : Location/Position ..... Numbers Entered
+    2. The Added Polynomial : Answer
